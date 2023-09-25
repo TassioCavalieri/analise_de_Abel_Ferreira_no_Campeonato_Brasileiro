@@ -1,0 +1,39 @@
+,ano_campeonato,data,rodada,estadio,time_mandante,time_visitante,tecnico_mandante,tecnico_visitante,gols_mandante,gols_visitante,defesas_mandante,defesas_visitante,chutes_mandante,chutes_visitante
+437,2021,2021-05-30,1,Estádio Jornalista Mário Filho,Flamengo,Palmeiras,Rogério Ceni,Abel Ferreira,1.0,0.0,4.0,8.0,14.0,12.0
+513,2021,2021-06-06,2,Allianz Parque,Palmeiras,Chapecoense,Abel Ferreira,Jair Ventura,3.0,1.0,3.0,1.0,17.0,6.0
+514,2021,2021-06-13,3,Allianz Parque,Palmeiras,Corinthians,Abel Ferreira,Sylvinho,1.0,1.0,3.0,2.0,12.0,9.0
+495,2021,2021-06-17,4,Estádio Alfredo Jaconi ,Juventude,Palmeiras,Marquinhos Santos,Abel Ferreira,0.0,3.0,3.0,2.0,11.0,13.0
+515,2021,2021-06-20,5,Allianz Parque,Palmeiras,América-MG,Abel Ferreira,Cauan Almeida,2.0,1.0,4.0,4.0,15.0,12.0
+743,2021,2021-06-24,6,Estádio Nabi Abi Chedid,RB Bragantino,Palmeiras,Maurício Barbieri,Abel Ferreira,3.0,1.0,5.0,3.0,12.0,18.0
+516,2021,2021-06-28,7,Allianz Parque,Palmeiras,EC Bahia,Abel Ferreira,Dado Cavalcanti,3.0,2.0,2.0,5.0,19.0,18.0
+725,2021,2021-07-01,8,Estádio Beira-Rio,Internacional,Palmeiras,Diego Aguirre,Abel Ferreira,1.0,2.0,4.0,4.0,16.0,14.0
+706,2021,2021-07-04,9,Estádio Adelmar da Costa Carvalho,Sport Recife,Palmeiras,Umberto Louzer,Abel Ferreira,0.0,1.0,4.0,1.0,13.0,14.0
+517,2021,2021-07-08,10,Allianz Parque,Palmeiras,Grêmio,Abel Ferreira,Thiago Gomes,2.0,0.0,4.0,4.0,18.0,12.0
+518,2021,2021-07-10,11,Allianz Parque,Palmeiras,Santos,João Martins,Fernando Diniz,3.0,2.0,0.0,4.0,14.0,12.0
+670,2021,2021-07-18,12,Estádio Antonio Accioly,Atlético-GO,Palmeiras,Eduardo Barroca,Abel Ferreira,0.0,3.0,5.0,1.0,11.0,15.0
+519,2021,2021-07-25,13,Allianz Parque,Palmeiras,Fluminense,João Martins,Roger Machado,1.0,0.0,2.0,1.0,10.0,9.0
+576,2021,2021-08-01,14,Estádio Cícero Pompeu de Toledo,São Paulo,Palmeiras,Hernán Crespo,Abel Ferreira,0.0,0.0,3.0,3.0,12.0,7.0
+520,2021,2021-08-08,15,Allianz Parque,Palmeiras,Fortaleza,Abel Ferreira,Juan Pablo Vojvoda,2.0,3.0,3.0,1.0,20.0,15.0
+691,2021,2021-08-15,16,Estádio Governador Magalhães Pinto,Atlético-MG,Palmeiras,Cuca,Abel Ferreira,2.0,0.0,1.0,4.0,15.0,1.0
+521,2021,2021-08-22,17,Allianz Parque,Palmeiras,Cuiabá-MT,V. Castanheira Penas,J. de Amorim Campos,0.0,2.0,2.0,7.0,31.0,9.0
+522,2021,2021-08-29,18,Allianz Parque,Palmeiras,Athletico-PR,Abel Ferreira,Toni Oliveira,2.0,1.0,3.0,1.0,16.0,11.0
+523,2021,2021-09-12,20,Allianz Parque,Palmeiras,Flamengo,Abel Ferreira,Renato Portaluppi,1.0,3.0,1.0,4.0,12.0,11.0
+617,2021,2021-09-18,21,Arena Condá,Chapecoense,Palmeiras,Pintado,Abel Ferreira,0.0,2.0,5.0,3.0,15.0,13.0
+637,2021,2021-09-26,22,Neo Química Arena ,Corinthians,Palmeiras,Sylvinho,Abel Ferreira,2.0,1.0,4.0,2.0,8.0,16.0
+524,2021,2021-10-03,23,Allianz Parque,Palmeiras,Juventude,Abel Ferreira,Marquinhos Santos,1.0,1.0,3.0,2.0,15.0,10.0
+601,2021,2021-10-07,24,Estádio Raimundo Sampaio,América-MG,Palmeiras,Vagner Mancini,Abel Ferreira,2.0,1.0,4.0,4.0,27.0,14.0
+525,2021,2021-10-10,25,Allianz Parque,Palmeiras,RB Bragantino,Abel Ferreira,Maurício Barbieri,2.0,4.0,2.0,4.0,20.0,12.0
+430,2021,2021-10-13,26,Arena Fonte Nova,EC Bahia,Palmeiras,Guto Ferreira,Abel Ferreira,0.0,0.0,2.0,5.0,17.0,9.0
+526,2021,2021-10-17,27,Allianz Parque,Palmeiras,Internacional,Abel Ferreira,Diego Aguirre,1.0,0.0,4.0,2.0,16.0,14.0
+465,2021,2021-10-21,19,Estádio Governador Plácido Castelo,Ceará SC,Palmeiras,Tiago Nunes,Abel Ferreira,1.0,2.0,3.0,4.0,14.0,12.0
+527,2021,2021-10-26,28,Allianz Parque,Palmeiras,Sport Recife,Abel Ferreira,Gustavo Florentín,2.0,1.0,0.0,13.0,37.0,6.0
+413,2021,2021-10-31,29,Arena do Grêmio,Grêmio,Palmeiras,Vagner Mancini,Abel Ferreira,1.0,3.0,2.0,4.0,15.0,11.0
+394,2021,2021-11-07,30,Estádio Urbano Caldeira,Santos,Palmeiras,Fábio Carille,Abel Ferreira,0.0,2.0,4.0,4.0,12.0,15.0
+528,2021,2021-11-11,31,Allianz Parque,Palmeiras,Atlético-GO,Abel Ferreira,Eduardo Souza,4.0,0.0,0.0,3.0,14.0,10.0
+566,2021,2021-11-14,32,Estádio Jornalista Mário Filho,Fluminense,Palmeiras,Marcão,Abel Ferreira,2.0,1.0,3.0,1.0,9.0,11.0
+529,2021,2021-11-18,33,Allianz Parque,Palmeiras,São Paulo,Abel Ferreira,Rogério Ceni,0.0,2.0,4.0,4.0,16.0,16.0
+491,2021,2021-11-20,34,Estádio Governador Plácido Castelo,Fortaleza,Palmeiras,Juan Pablo Vojvoda,Abel Ferreira,1.0,0.0,3.0,2.0,8.0,13.0
+530,2021,2021-11-24,35,Allianz Parque,Palmeiras,Atlético-MG,João Martins,Cuca,2.0,2.0,3.0,5.0,11.0,15.0
+549,2021,2021-12-01,36,Arena Pantanal,Cuiabá-MT,Palmeiras,V. Castanheira Penas,J. de Amorim Campos,1.0,3.0,2.0,6.0,21.0,13.0
+664,2021,2021-12-06,37,Arena da Baixada,Athletico-PR,Palmeiras,Alberto Valentim,Abel Ferreira,0.0,0.0,0.0,3.0,22.0,4.0
+531,2021,2021-12-10,38,Arena Barueri,Palmeiras,Ceará SC,Abel Ferreira,Tiago Nunes,1.0,0.0,7.0,1.0,12.0,30.0
